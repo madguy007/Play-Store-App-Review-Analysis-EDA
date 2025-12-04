@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 --- 
 
-## Project Structure
+## 📦 Project Structure
 Play-Store-App-Review-Analysis-EDA/
 ├── notebooks/
 │   └── playstore_eda.ipynb
