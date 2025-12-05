@@ -94,6 +94,7 @@ Includes translated user review text:
 ---
 
 ## 📁 Project Structure
+
 Play-Store-App-Review-Analysis-EDA/
 │
 ├── notebooks/
@@ -109,13 +110,6 @@ Play-Store-App-Review-Analysis-EDA/
 ├── requirements.txt
 │
 └── README.md
-
----
-## 🎥 Project Walkthrough Video (15–20 min)
-
-A complete explanation of the analysis, workflow, insights, and results.
-
-🔗 **Watch the video here:** [Video Link Coming Soon]
 
 ## 📦 Installation
 
