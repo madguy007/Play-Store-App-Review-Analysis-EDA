@@ -93,11 +93,6 @@ Includes translated user review text:
 
 ---
 
-## 📦 Installation
-
-```bash
-pip install -r requirements.txt
-
 ## 📁 Project Structure
 Play-Store-App-Review-Analysis-EDA/
 │
@@ -121,3 +116,8 @@ Play-Store-App-Review-Analysis-EDA/
 A complete explanation of the analysis, workflow, insights, and results.
 
 🔗 **Watch the video here:** [Video Link Coming Soon]
+
+## 📦 Installation
+
+```bash
+pip install -r requirements.txt
