@@ -41,6 +41,17 @@ Includes translated user review text:
 
 ---
 
+## 🧰 Tools & Technologies Used
+
+- 🐍 **Python**
+- 📊 **Pandas**, **NumPy**
+- 📉 **Matplotlib**, **Seaborn**, **Plotly**
+- 💬 **NLTK** (Sentiment Analysis)
+- 📓 **Jupyter Notebook / Google Colab**
+- 🗂️ **Git & GitHub**
+
+---
+
 ## 🎯 Business Objectives
 
 - Identify factors that influence **app success and installs**  
