@@ -95,21 +95,24 @@ Includes translated user review text:
 
 ## 📁 Project Structure
 
+```
 Play-Store-App-Review-Analysis-EDA/
 │
 ├── notebooks/
-│ └── playstore_eda.ipynb
+│   └── playstore_eda.ipynb
 │
 ├── data/
-│ ├── play_store_data.csv
-│ └── user_reviews.csv
+│   ├── play_store_data.csv
+│   └── user_reviews.csv
 │
 ├── visuals/
-│ └── (graphs exported from notebook)
+│   └── (exported graphs)
 │
 ├── requirements.txt
 │
 └── README.md
+```
+
 
 ## 📦 Installation
 
