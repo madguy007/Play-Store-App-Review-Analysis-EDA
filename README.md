@@ -4,7 +4,7 @@ A complete Exploratory Data Analysis (EDA) of Google Play Store apps and their u
 This project uncovers **what drives app success**, including installs, ratings, categories, pricing, and user sentiment — enabling data-driven decisions for developers and businesses.
 
 🎥 **Project Walkthrough Video (15–20 min):**  
-👉 *Watch the full explanation here:* **[Video Link Coming Soon]**
+👉 *Watch the full explanation here:* **https://drive.google.com/file/d/1wPJIRWtEXfNQDusHQGm5AdKPi6QaPuMI/view?usp=sharing**
 
 ---
 
